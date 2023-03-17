@@ -1,0 +1,41 @@
+.fondo{
+    background-color: rgb(88, 88, 90);
+}
+
+.viewActiva{
+    color: crimson;
+    margin-right: 2vw;
+}
+.view{
+    color: white;
+    margin-right: 2vw;
+}
+
+
+.pokemones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.detalleView{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5em;
+}
+.detallePersonaje{
+    margin-left: 3em;
+}
+
+.rutaMala{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    height: 4vh;
+    color: white;
+    
+}
